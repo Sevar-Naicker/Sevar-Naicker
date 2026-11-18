@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=2BEE4B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sevar+%F0%9F%91%8B;Websites%2C+applications+and+side+projects;Built+by+hand+in+Johannesburg" alt="Hi, I'm Sevar. Websites, applications and side projects, built by hand in Johannesburg" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&color=2BEE4B&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sevar+%F0%9F%AB%A0;Websites%2C+applications+and+side+projects;Built+by+hand+in+Johannesburg" alt="Hi, I'm Sevar 🫠. Websites, applications and side projects, built by hand in Johannesburg" />
 
 **Third-year student developer at the University of Johannesburg**
 building sites for clients and friends, apps for myself, and whatever my Linux desktop needs next.
 
-<a href="https://sevar-naicker.github.io"><img src="https://img.shields.io/badge/CV-sevar--naicker.github.io-2BEE4B?style=for-the-badge&labelColor=121613" alt="CV site" /></a>
-<a href="mailto:sevarn24@gmail.com"><img src="https://img.shields.io/badge/Email-sevarn24%40gmail.com-2BEE4B?style=for-the-badge&labelColor=121613" alt="Email" /></a>
+<a href="https://sevar-naicker.github.io"><img src="https://img.shields.io/badge/CV-sevar--naicker.github.io-5DF57C?style=for-the-badge&labelColor=121613" alt="CV site" /></a>
+<a href="mailto:sevarn24@gmail.com"><img src="https://img.shields.io/badge/Email-sevarn24%40gmail.com-5DF57C?style=for-the-badge&labelColor=121613" alt="Email" /></a>
 
 </div>
 
@@ -49,8 +49,8 @@ building sites for clients and friends, apps for myself, and whatever my Linux d
 ### ✦ Right now
 
 - 🎓 Third year at UJ: Informatics, Computer Science, IT Management, Business Management, Electrotechnics and Maths
-- 🏨 Building a hotel management system for a client
-- 🚀 Getting Redefine ready to deploy for more than one user
+- 🏨 Developing a hotel management system for a client
+- 🚀 Getting Redefine ready for multiple web users
 - 🏝 Adding features to Ukishima, one menu at a time
 
 <br>
