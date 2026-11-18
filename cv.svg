@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="244" height="28" role="img" aria-label="CV: SEVAR-NAICKER.GITHUB.IO">
+  <title>CV: SEVAR-NAICKER.GITHUB.IO</title>
+  <rect width="39" height="28" fill="#121613"/>
+  <rect x="39" width="205" height="28" fill="#2BEE4B"/>
+  <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="10" text-anchor="middle" letter-spacing="1.25">
+    <text x="19.5" y="17.5" fill="#FFFFFF" textLength="15" lengthAdjust="spacingAndGlyphs">CV</text>
+    <text x="141.5" y="17.5" fill="#000000" font-weight="bold" textLength="181" lengthAdjust="spacingAndGlyphs">SEVAR-NAICKER.GITHUB.IO</text>
+  </g>
+</svg>

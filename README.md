@@ -5,8 +5,8 @@
 **Third-year student developer at the University of Johannesburg**
 building sites for clients and friends, apps for myself, and whatever my Linux desktop needs next.
 
-<a href="https://sevar-naicker.github.io"><img src="https://img.shields.io/badge/CV-sevar--naicker.github.io-5DF57C?style=for-the-badge&labelColor=121613" alt="CV site" /></a>
-<a href="mailto:sevarn24@gmail.com"><img src="https://img.shields.io/badge/Email-sevarn24%40gmail.com-5DF57C?style=for-the-badge&labelColor=121613" alt="Email" /></a>
+<a href="https://sevar-naicker.github.io"><img src="cv.svg" alt="CV: sevar-naicker.github.io" height="28" /></a>
+<a href="mailto:sevarn24@gmail.com"><img src="email.svg" alt="Email: sevarn24@gmail.com" height="28" /></a>
 
 </div>
 
@@ -51,6 +51,8 @@ building sites for clients and friends, apps for myself, and whatever my Linux d
 - 🎓 Third year at UJ: Informatics, Computer Science, IT Management, Business Management, Electrotechnics and Maths
 - 🏨 Developing a hotel management system for a client
 - 🚀 Getting Redefine ready for multiple web users
+- 📚 Building out [Itsuka](https://itsuka.co.za), a pixel-art library for a friend
+- 🎧 Finishing [Beviito](https://sevar-naicker.github.io/Beviito/), a DJ site for a friend
 - 🏝 Adding features to Ukishima, one menu at a time
 
 <br>
