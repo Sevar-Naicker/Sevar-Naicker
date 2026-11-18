@@ -51,8 +51,8 @@ building sites for clients and friends, apps for myself, and whatever my Linux d
 - 🎓 Third year at UJ: Informatics, Computer Science, IT Management, Business Management, Electrotechnics and Maths
 - 🏨 Developing a hotel management system for a client
 - 🚀 Getting Redefine ready for multiple web users
-- 📚 Building out [Itsuka](https://itsuka.co.za), a pixel-art library for a friend
-- 🎧 Finishing [Beviito](https://sevar-naicker.github.io/Beviito/), a DJ site for a friend
+- 📚 Building out [Itsuka](https://itsuka.co.za), a pixel-art library for artists, creators and small businesses
+- ✅ Recently shipped [Beviito](https://sevar-naicker.github.io/Beviito/), a website and in-browser player for a DJ
 - 🏝 Adding features to Ukishima, one menu at a time
 
 <br>
