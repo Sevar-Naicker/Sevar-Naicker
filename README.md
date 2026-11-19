@@ -27,50 +27,23 @@ I build websites for clients and friends, and applications for myself. In my spa
 
 <h2 align="center">Top Projects</h2>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://sevar-naicker.github.io/Off-Route-66/"><img src="images/red/off-route-66.jpg" alt="Off Route 66" width="100%" /></a>
-<br><a href="https://sevar-naicker.github.io/Off-Route-66/"><b>Off Route 66 ↗</b></a> &nbsp;<sub><code>Client</code></sub>
-<br><sub>A neon Route 66 website for a carwash, with soap-water-filled lettering and a road-sign tagline</sub>
-<br><sub><b>HTML · CSS · JS</b></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://itsuka.co.za"><img src="images/red/itsuka.jpg" alt="Itsuka" width="100%" /></a>
-<br><a href="https://itsuka.co.za"><b>Itsuka ↗</b></a> &nbsp;<sub><code>Web app</code></sub>
-<br><sub>A pixel-art library of artists, creators and small businesses to support later</sub>
-<br><sub><b>HTML · CSS · JS · Supabase</b></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://sevar-naicker.github.io/Beviito/"><img src="images/red/beviito.jpg" alt="Beviito" width="100%" /></a>
-<br><a href="https://sevar-naicker.github.io/Beviito/"><b>Beviito ↗</b></a> &nbsp;<sub><code>Website</code></sub>
-<br><sub>A DJ's website with a Stream Deck-style track grid and an in-browser player</sub>
-<br><sub><b>HTML · CSS · Web Audio</b></sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://github.com/Sevar-Naicker/Waybar"><img src="images/red/ukishima.jpg" alt="Ukishima" width="100%" /></a>
-<br><a href="https://github.com/Sevar-Naicker/Waybar"><b>Ukishima ↗</b></a> &nbsp;<sub><code>Linux desktop</code></sub>
-<br><sub>My Waybar for KDE Plasma, with a floating dynamic island and Quickshell menus, coloured by the wallpaper</sub>
-<br><sub><b>QML · Python · Bash · CSS</b></sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<img src="images/red/hotel.jpg" alt="Hotel system" width="100%" />
-<br><b>Hotel system</b> &nbsp;<sub><code>Client</code></sub>
-<br><sub>Bookings and room views for an established hotel, built with a project partner</sub>
-<br><sub><b>Supabase</b></sub>
-</td>
-<td width="50%" valign="top">
-<img src="images/red/runout.jpg" alt="RunOut" width="100%" />
-<br><b>RunOut</b> &nbsp;<sub><code>Coursework</code></sub>
-<br><sub>A Johannesburg vinyl record shop, built as a static front end then converted to ASP.NET</sub>
-<br><sub><b>ASP.NET Web Forms · C#</b></sub>
-</td>
-</tr>
-</table>
+<a href="https://sevar-naicker.github.io/Off-Route-66/"><img src="images/projects/off-route-66.jpg" alt="Off Route 66" width="100%" /></a>
+<p align="center"><sub><code>Client</code> &nbsp;·&nbsp; <b>HTML · CSS · JS</b> &nbsp;·&nbsp; <a href="https://sevar-naicker.github.io/Off-Route-66/">Visit site ↗</a></sub></p>
+
+<a href="https://itsuka.co.za"><img src="images/projects/itsuka.jpg" alt="Itsuka" width="100%" /></a>
+<p align="center"><sub><code>Web app</code> &nbsp;·&nbsp; <b>HTML · CSS · JS · Supabase</b> &nbsp;·&nbsp; <a href="https://itsuka.co.za">Visit site ↗</a></sub></p>
+
+<a href="https://sevar-naicker.github.io/Beviito/"><img src="images/projects/beviito.jpg" alt="Beviito" width="100%" /></a>
+<p align="center"><sub><code>Website</code> &nbsp;·&nbsp; <b>HTML · CSS · Web Audio</b> &nbsp;·&nbsp; <a href="https://sevar-naicker.github.io/Beviito/">Visit site ↗</a></sub></p>
+
+<a href="https://github.com/Sevar-Naicker/Waybar"><img src="images/projects/ukishima.jpg" alt="Ukishima" width="100%" /></a>
+<p align="center"><sub><code>Linux desktop</code> &nbsp;·&nbsp; <b>QML · Python · Bash · CSS</b> &nbsp;·&nbsp; <a href="https://github.com/Sevar-Naicker/Waybar">View code ↗</a></sub></p>
+
+<img src="images/projects/hotel.jpg" alt="Hotel system" width="100%" />
+<p align="center"><sub><code>Client</code> &nbsp;·&nbsp; <b>Supabase</b></sub></p>
+
+<img src="images/projects/runout.jpg" alt="RunOut" width="100%" />
+<p align="center"><sub><code>Coursework</code> &nbsp;·&nbsp; <b>ASP.NET Web Forms · C#</b></sub></p>
 
 <sub>Also: a booking site with role-based admin for a <b>Mercedes workshop</b> (client), <b>Redefine</b>, which moves playlists between Spotify and YouTube Music (Python · Flask · OAuth), and <a href="https://sevar-naicker.github.io"><b>this CV ↗</b></a>.</sub>
 
